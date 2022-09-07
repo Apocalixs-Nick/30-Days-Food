@@ -1,0 +1,122 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">30 Days Food</string>
+    <string name="day1">Day 1</string>
+    <string name="title1">Costoletta alla valdostana</string>
+    <string name="description1">Comparsa nella ristorazione popolare valdostana, forse da origini austriache, in versione «nobile» prevede costoletta con l’osso e fontina, in quella più comune fettine di vitello, fontina e prosciutto cotto</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">Risotto con i peperoni di Voghera</string>
+    <string name="description2">Abbiamo reinterpretato il classico risotto alla vogherese. Nella nostra variante, mantecata con centrifugato fresco, il delicato peperone di Voghera è presente al massimo della dolcezza e del profumo</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Spiedini di seppioline con olive e capperi</string>
+    <string name="description3">Seppioline ripiene, infilzate a spiedino e cotte alla griglia, per un secondo di mare eccezionale. Con questa ricetta riuscirete a stupire anche i palati più esigenti della famiglia</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Controfiletto al timo con battuto di olive</string>
+    <string name="description4">Una delle carni più morbide da mangaire in famiglia accompagnato dal gusto delle olive</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Crauti con le mele</string>
+    <string name="description5">Crauti con le mele</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Crostoni di patate rosse</string>
+    <string name="description6">Crostoni di patate rosse</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Trota alpina con gemme di abete</string>
+    <string name="description7">La trota fario popola i nostri fiumi montani, tra acque fredde, limpide e ben ossigenate. Le abbiamo reso omaggio con ingredienti del suo habitat alpino, giocando con una salsa ai frutti di bosco, gemme di abete e, a piacere, foglie e fiori di malva</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Antipasto misto con sgonfiotti</string>
+    <string name="description8">Antipasto misto con sgonfiotti</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Arrosticini, i piatti della tradizione</string>
+    <string name="description9">Arrosticini, i piatti della tradizione</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Filetto di ricciola e cavolfiore con pesto di pomodori secchi</string>
+    <string name="description10">Filetto di ricciola e cavolfiore con pesto di pomodori secchi</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Fregola, salsiccia e funghi</string>
+    <string name="description11">Fregola, salsiccia e funghi</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Crema inglese montata</string>
+    <string name="description12">Trasformate questa classica salsa in una soffice spuma e servitela con i dolci lievitati, dalle brioche al panettone</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Frittata bianca con briciole croccanti al coriandolo</string>
+    <string name="description13">Frittata bianca con briciole croccanti al coriandolo</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Baccalà mantecato</string>
+    <string name="description14">Baccalà mantecato</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Frittata di spaghetti alla carbonara</string>
+    <string name="description15">Frittata di spaghetti alla carbonara, il gusto della tradizione in una ricetta geniale, da consumare appena pronta oppure da preparare in anticipo e portare in una gita fuori porta, come pranzo al sacco o per picnic con amici e famiglia</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Farfalle alla Frank Sinatra</string>
+    <string name="description16">Farfalle alla Frank Sinatra</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Fritto di merluzzo atlantico e ravanelli con maionese verde</string>
+    <string name="description17">Il merluzzo atlantico è un pesce di grandi dimensioni, dalla polpa candida e un sapore fresco ed elegante, da non confondere con il merluzzo mediterraneo, conosciuto anche come nasello, più piccolo e meno pregiato</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Linguine alla puttanesca</string>
+    <string name="description18">Linguine alla puttanesca</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Risotto al gorgonzola con le noci</string>
+    <string name="description19">Risotto al gorgonzola con le noci</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Fusilli con crema di scarola e acciughe, ’nduja e burrata</string>
+    <string name="description20">Fusilli con crema di scarola e acciughe, ’nduja e burrata</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Sgombro e zucchine agrodolci con salsa alla senape</string>
+    <string name="description21">Lo sgombro è in ottima compagnia con le zucchine agrodolci. Vi sveliamo un trucchetto: coperte con un velo di olio e sigillate con la pellicola le zucchine in agro si conservano in frigo per 2-3 giorni, quindi potete prepararne in abbondanza per avere un contorno o un antipasto sempre pronto</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Polpette rustiche di manzo e salsiccia di Bra</string>
+    <string name="description22">Polpette rustiche di manzo e salsiccia di Bra</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Seppie grigliate sul purè di piselli</string>
+    <string name="description23">Le seppie e i piselli sono un abbinamento tradizionale e molto riuscito, provate la grande accoppiata in questa ricetta leggera e appetitosa</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Sogliola al cartoccio con pistacchi di Bronte</string>
+    <string name="description24">ogliola al cartoccio con pistacchi di Bronte</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Tomino al forno con miele, nocciole e lavanda</string>
+    <string name="description25">Tomino al forno con miele, nocciole e lavanda</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Tonno scottato con olive e pistacchi</string>
+    <string name="description26">Tonno scottato con olive e pistacchi</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Uovo barzotto, formaggio e insalatine</string>
+    <string name="description27">Uovo barzotto, formaggio e insalatine</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Salmone e pere</string>
+    <string name="description28">Salmone e pere</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Zuppa pezzente</string>
+    <string name="description29">Zuppa pezzente</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Minestra di riso, latte e castagne</string>
+    <string name="description30">Minestra di riso, latte e castagne</string>
+</resources>
