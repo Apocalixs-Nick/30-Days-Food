@@ -78,7 +78,6 @@ fun FoodAppTopAppBar(modifier: Modifier = Modifier) {
 
 @Composable
 fun FoodAppItem(food: Food, modifier: Modifier = Modifier) {
-
     Card(
         elevation = 40.dp,
         modifier = modifier.padding(8.dp)
@@ -125,7 +124,7 @@ fun FoodAppInformation(
         .padding(horizontal = 16.dp, vertical = 8.dp)) {
         Text(
             text = stringResource(dayFood),
-            style = MaterialTheme.typography.h3,
+            style = MaterialTheme.typography.h2,
             fontWeight = FontWeight.Medium
             //modifier = modifier.padding(top = 16.dp),
         )
